@@ -7,5 +7,5 @@ This repository contains several scripts to interact with Microsoft Team Foundat
  - [Create Iteration](https://github.com/AITGmbH/AIT.VSTS.Scripts/tree/develop/Iterations/Creation)
  - [Assign Iterations to Teams](https://github.com/AITGmbH/AIT.VSTS.Scripts/tree/develop/Iterations/TeamAssignment)
  - [Create Work Items](https://github.com/AITGmbH/AIT.VSTS.Scripts/tree/develop/WorkItems)
- - [Manage Testplans] (https://github.com/waits83/AIT.VSTS.Scripts/tree/develop_waits83/Testplans)
+ - [Manage Testplans](https://github.com/waits83/AIT.VSTS.Scripts/tree/develop_waits83/Testplans)
  
