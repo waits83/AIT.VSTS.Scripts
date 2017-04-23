@@ -3,9 +3,9 @@ This repository contains several scripts to interact with Microsoft Team Foundat
 
 # Content
 
- - [Get all Areas assigned to a Team](https://github.com/AITGmbH/AIT.VSTS.Scripts/tree/develop/Areas)
- - [Create Iteration](https://github.com/AITGmbH/AIT.VSTS.Scripts/tree/develop/Iterations/Creation)
- - [Assign Iterations to Teams](https://github.com/AITGmbH/AIT.VSTS.Scripts/tree/develop/Iterations/TeamAssignment)
- - [Create Work Items](https://github.com/AITGmbH/AIT.VSTS.Scripts/tree/develop/WorkItems)
- - [Manage Testplans](https://github.com/waits83/AIT.VSTS.Scripts/tree/develop_waits83/Testplans)
+ - [Get all Areas assigned to a Team](https://github.com/waits83/AIT.VSTS.Scripts/tree/local_develop_waits83/Areas)
+ - [Create Iteration](https://github.com/waits83/AIT.VSTS.Scripts/tree/local_develop_waits83/Iterations/Creation)
+ - [Assign Iterations to Teams](https://github.com/waits83/AIT.VSTS.Scripts/tree/local_develop_waits83/Iterations/TeamAssignment)
+ - [Create Work Items](https://github.com/waits83/AIT.VSTS.Scripts/tree/local_develop_waits83/WorkItems)
+ - [Manage Testplans](https://github.com/waits83/AIT.VSTS.Scripts/tree/local_develop_waits83/Testplans)
  
